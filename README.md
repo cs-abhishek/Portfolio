@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href=github will be u[dated soon]>Report Bug</a> &nbsp; &nbsp;
+    <a href=("https://github.com/cs-abhishek/Portfolio.git")>Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="github will be updated soon">Request Feature</a>
+    <a href="https://github.com/cs-abhishek/Portfolio.git">Request Feature</a>
 </h3>
 
 ## TL;DR
